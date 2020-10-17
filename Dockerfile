@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-ARG CONFLUENCE_VERSION=7.8.0
+ARG CONFLUENCE_VERSION=7.8.1
 
 ENV RUN_USER            daemon
 ENV RUN_GROUP           daemon
